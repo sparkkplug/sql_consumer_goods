@@ -2,7 +2,9 @@
 
 ### Presentation for the Adhoc Questions: 👇🏻
 - [Presentation](https://github.com/sparkkplug/sql_consumer_goods/blob/main/SQL%20CONSUMER%20ADHOC%20INSIGHTS.pptx)
-  
+
+
+### Dataset for Project by [Codebasics.io](https://codebasics.io/challenge/codebasics-resume-project-challenge)  🔗
 
 ### Description:
 🔍 Project Summary: A SQL-based project was conducted for Atliq Hardwares, addressing 10 ad hoc business requests to provide actionable insights for senior management. MySQL was utilized, applying advanced features such as CTEs, JOINs, subqueries, and GROUP BY to conduct comprehensive data analysis.
